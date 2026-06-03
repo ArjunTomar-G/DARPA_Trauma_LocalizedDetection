@@ -1,5 +1,7 @@
 # UAS DTU - DARPA Triage Challenge - Trauma Pipeline.
 
+Note: This is a consolidated portfolio copy of a collaborative project. Original development history is archived.
+
 The given repository was used in DARPA Triage Challenge - Phase 2, in October 2025 by team UAS-DTU, where we won 150k USD as runner's up in self funded category(Systems). The repository was evaluating `Trauma` and `Severe Hemmorhage` categories
 
 ## File Structure
